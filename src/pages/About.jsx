@@ -7,20 +7,23 @@ export const About = () => {
             <p>Hii, username</p>
             <h1>Why Choose Us?</h1>
             <p>
-              Are you ready to take ypour business to the next level width
-              cutting-edge IT solution ?Look no furter At thapa technical.
+              Are you ready to take your business to the next level width
+              cutting-edge IT solution ?Look no furter other kavita website.
             </p>
             <p>
-              Are you ready to take ypour business to the next level width
-              cutting-edge IT solution ?Look no furter At thapa technical.
+              Are you ready to take your business to the next level width
+              cutting-edge IT solution ?Look no furter other than kavita
+              website.
             </p>
             <p>
-              Are you ready to take ypour business to the next level width
-              cutting-edge IT solution ?Look no furter At thapa technical.
+              Are you ready to take your business to the next level width
+              cutting-edge IT solution ?Look no furter other than kavita
+              website.
             </p>
             <p>
-              Are you ready to take ypour business to the next level width
-              cutting-edge IT solution ?Look no furter At thapa technical.
+              Are you ready to take your business to the next level width
+              cutting-edge IT solution ?Look no furter other than kavita
+              website.
             </p>
             <div className="btn btn-group">
               <a href="/contact">
